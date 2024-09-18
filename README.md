@@ -1,4 +1,4 @@
-![Employment Automation](https://github.com/user-attachments/assets/2ea0c110-d7c2-4496-8bbd-cd45644a22e9)
+![Employee Automation](https://github.com/user-attachments/assets/a75ffda4-5898-438a-85b1-67dc7f49abe9)
 
 > Plan, develop, and simulate automated employment positions.
 
