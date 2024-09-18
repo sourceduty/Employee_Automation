@@ -14,6 +14,8 @@ Additionally, this GPT takes into account both technical and ethical considerati
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
